@@ -41,9 +41,9 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
         <td><img src="https://img.shields.io/github/stars/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&amp;labelColor=343b41" /></td>
         <td><img src="https://img.shields.io/github/forks/vidhi-mody/Persona-A-MEAN-Stack-Application?style=plastic&amp;labelColor=343b41" /></td>
     </tr><tr>
-        <td><a href="https://github.com/vidhi-mody/Empower">Empower</a></td>
-        <td><img src="https://img.shields.io/github/stars/vidhi-mody/Empower?style=plastic&amp;labelColor=343b41" /></td>
-        <td><img src="https://img.shields.io/github/forks/vidhi-mody/Empower?style=plastic&amp;labelColor=343b41" /></td>
+        <td><a href="https://github.com/vidhi-mody/DSA">DSA</a></td>
+        <td><img src="https://img.shields.io/github/stars/vidhi-mody/DSA?style=plastic&amp;labelColor=343b41" /></td>
+        <td><img src="https://img.shields.io/github/forks/vidhi-mody/DSA?style=plastic&amp;labelColor=343b41" /></td>
     </tr>
 </table>
 
@@ -93,7 +93,7 @@ My goal is to travel the world with just one bag. When I’m not on a computer, 
 <!-- FOOTER -->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 2021-02-03T00:42:21.125Z<br />
+    Last refresh: 2021-03-11T00:42:37.366Z<br />
 </p>
 <p align="center">
     <img src="https://github.com/vidhi-mody/vidhi-mody/workflows/README%20build/badge.svg" /> 
